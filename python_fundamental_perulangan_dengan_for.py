@@ -24,4 +24,5 @@ print("membaca buku yang ke 3")
 print("membaca buku yang ke 4")
 print("membaca buku yang ke 5")
 print("membaca buku yang ke 6")
+print("membaca buku yang ke 7")
 
