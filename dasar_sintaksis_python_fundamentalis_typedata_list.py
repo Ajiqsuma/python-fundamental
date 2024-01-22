@@ -56,7 +56,7 @@ for i in range (0, len(daftar_buku)):
 
 print('\nPop -2')
 daftar_buku = ['Seven Habits','How Influencer people','First Thing First','4DX']
-daftar_buku.pop(-2)
+daftar_buku.pop(-2)# menghapus elemen kedua dari terakhir
 for i in range (0, len(daftar_buku)):
     print(daftar_buku[i])
 
